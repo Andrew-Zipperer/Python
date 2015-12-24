@@ -1,3 +1,5 @@
+#see description outside file
+
 # Script Name		: batch_file_rename.py
 # Author				: Craig Richards
 # Created				: 6th August 2012
